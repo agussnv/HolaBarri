@@ -14,4 +14,4 @@ Amb **HolaBarri** proposem una aplicació que centralitza botigues locals, perme
 - [**Penpot**](https://design.penpot.app/#/view/96c4bd8e-df43-800f-8005-9d60dfdbab89?page-id=96c4bd8e-df43-800f-8005-9d60dfdbab8a&section=interactions&index=7)
 - [**Pàgina web**]()
 
-**Estat**: En procès 🕧 - Començament del projecte, enfocats a la part de consumidor
+**Estat**: En pausa.
